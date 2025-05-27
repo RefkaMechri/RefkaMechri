@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Refka Mechri
 
 
-**🎓 Engineering student | 💡 Passionate about software development, AI, and data science
+🎓 Engineering student | 💡 Passionate about software development, AI, and data science
 
 Here are some ideas to get you started:
 - 🔍 I enjoy solving real-world problems with code
