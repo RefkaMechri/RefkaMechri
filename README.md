@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤝 Open to collaboration on impactful ideas
 
 📫 How to reach me: [ref.kaa2002@gmail.com]  
-🔗 LinkedIn: [![LinkedIn](https://www.linkedin.com/in/refka-mechri-4377a2274/)
+🔗 LinkedIn: [![LinkedIn](https://www.linkedin.com/in/refka-mechri-4377a2274/)]
 
 
 ## 🧠 Skills & Tools
