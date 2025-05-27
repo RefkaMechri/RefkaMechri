@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Refka Mechri
 
-<!--
+
 **🎓 Engineering student | 💡 Passionate about software development, AI, and data science
 
 Here are some ideas to get you started:
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💻 Working on innovative, data-driven projects
 - 🌱 Always learning and exploring new technologies
 - 🤝 Open to collaboration on impactful ideas
--->
+
 📫 How to reach me: [ref.kaa2002@gmail.com]  
 🔗 LinkedIn: [linkedin.com/in/RefkaMechri]([https://linkedin.com/in/RefkaMechri](https://www.linkedin.com/in/refka-mechri-4377a2274/))
 
